@@ -1,5 +1,5 @@
 
-alert("Bem Vindo!");
+alert("Bem Vindo!!");
 console.log("Deu certo! ")
 const pokeContainer = document.querySelector("#pokeContainer");
 
