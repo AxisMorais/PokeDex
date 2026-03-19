@@ -1,9 +1,9 @@
 
-alert("Entrei!");
+alert("Bem Vindo!");
 console.log("Deu certo! ")
 const pokeContainer = document.querySelector("#pokeContainer");
 
-const pokemonCount = 150
+const pokemonCount = 250
 const colors = {
   fire: '#FDDFDF',
   grass: '#DEFDE0',
